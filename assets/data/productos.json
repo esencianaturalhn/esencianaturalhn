@@ -1,0 +1,23 @@
+[
+  {
+    "nombre": "Colágeno Natural",
+    "descripcion": "Fortalece articulaciones, piel y cabello",
+    "imagen": "assets/img/portfolio/colageno.webp",
+    "categoria": "strategy",
+    "whatsapp": "Colágeno Natural"
+  },
+  {
+    "nombre": "Omega 3",
+    "descripcion": "Apoyo cardiovascular y cerebral",
+    "imagen": "assets/img/portfolio/omega3.webp",
+    "categoria": "finance",
+    "whatsapp": "Omega 3"
+  },
+  {
+    "nombre": "Magnesio",
+    "descripcion": "Relajación muscular y descanso",
+    "imagen": "assets/img/portfolio/magnesio.webp",
+    "categoria": "operations",
+    "whatsapp": "Magnesio"
+  }
+]
